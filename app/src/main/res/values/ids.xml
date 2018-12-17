@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="game_0" type="id"/>
+    <item name="game_1" type="id"/>
+    <item name="game_2" type="id"/>
+    <item name="game_3" type="id"/>
+    <item name="game_4" type="id"/>
+    <item name="game_5" type="id"/>
+    <item name="game_6" type="id"/>
+    <item name="game_7" type="id"/>
+    <item name="game_8" type="id"/>
+    <item name="game_9" type="id"/>
+    <item name="game_10" type="id"/>
+    <item name="game_11" type="id"/>
+    <item name="game_12" type="id"/>
+    <item name="game_13" type="id"/>
+    <item name="game_14" type="id"/>
+</resources>

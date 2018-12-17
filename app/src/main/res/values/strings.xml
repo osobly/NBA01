@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NBA 0.1</string>
+    <string name="title_Gameview">Game View</string>
+    <string name="title_Statistics">Statistics</string>
+    <string name="title_Soundboard">Soundboard</string>
+    <string name="title_Reddit">Reddit</string>
+</resources>
